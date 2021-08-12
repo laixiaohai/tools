@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jsonlib", "jsonlib\jsonlib.vcxproj", "{B5F3DFAC-6727-4BFF-B29D-B342F6A7FD2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F3DFAC-6727-4BFF-B29D-B342F6A7FD2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5F3DFAC-6727-4BFF-B29D-B342F6A7FD2B}.Debug|x86.Build.0 = Debug|Win32
+		{B5F3DFAC-6727-4BFF-B29D-B342F6A7FD2B}.Release|x86.ActiveCfg = Release|Win32
+		{B5F3DFAC-6727-4BFF-B29D-B342F6A7FD2B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24383972-8D08-46B5-85B4-B4717A472C4F}
+	EndGlobalSection
+EndGlobal
